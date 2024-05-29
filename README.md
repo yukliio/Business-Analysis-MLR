@@ -1,4 +1,4 @@
-# Business-Analysis-MLR-
+# Business-Analysis-(Multiple Linear Regression)
 Multiple Linear Regression to analyze business data to evaluate what variables to invest in. 
 
 # Multiple Linear Regression for Business Profit Prediction
